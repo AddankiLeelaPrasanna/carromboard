@@ -1,0 +1,184 @@
+.wrap{
+    height:400px;
+    width:400px;
+    border:20px solid black;
+    background-color: bisque;
+    margin:auto;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+   position: absolute;
+    
+  }
+  .positionbottom{
+    border:2px solid black;
+    border-radius:20px;
+    height:20px;
+    width:275px;
+    margin:5px 5px 50px 63px;
+    bottom:0;
+   
+    position:absolute;
+  }
+  .positiontop{
+    border:2px solid black;
+    border-radius:20px;
+    height:20px;
+    width:275px;
+    margin:50px 5px 5px 63px;
+    top:0;
+
+    position:absolute;
+  }
+  
+  .positionleft{
+    border:2px solid black;
+    border-radius:20px;
+    height:260px;
+    width:20px;
+    margin:70px 5px 48px 50px;
+    left:l;
+    
+    position:absolute;
+  }
+  .positionright{
+    border:2px solid black;
+
+    border-radius:20px;
+    height:260px;
+    width:20px;
+    margin:70px 50px 48px 5px;
+    right:0;
+   
+    position:absolute;
+  }
+  
+  
+  
+  .box1{
+    height:30px;
+    width:30px;
+    border:3px solid black;
+    background-color: black;
+    position: absolute;
+    
+    left:0;
+    top:0;
+    border-radius:50%;
+    
+  }
+  .box2{
+    height:30px;
+    width:30px;
+    border:3px solid black;
+    background-color: black;
+    position: absolute;
+    
+    top:0;
+    right:0;
+    border-radius:50%;
+    
+  }
+  .box3{
+    height:30px;
+    width:30px;
+    border:3px solid black;
+    background-color: black;
+    position: absolute;
+    left:0;
+    bottom:0;
+    border-radius:50%;
+    
+  }
+  .box4{
+    height:30px;
+    width:30px;
+    border:3px solid black;
+    background-color: black;
+    position: absolute;
+    right:0;
+    bottom:0;
+    border-radius:50%;
+    
+  }
+  .box5{
+    height:100px;
+    width:100px;
+    border:3px solid black;
+    background-color: brown;
+    margin:auto;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+   position: absolute;
+   border-radius:100%;
+   
+    
+    
+  }
+  .box6{
+    height:20px;
+    width:20px;
+    border:1px solid red;
+    background-color: black;
+    margin:auto;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+   position: absolute;
+   border-radius:50%;
+   
+    
+    
+  }
+  .box7{
+    height:20px;
+    width:15px;
+    border:5px solid ;
+    background-color: white;
+    position: absolute;
+    margin:50px;
+    right:0;
+    bottom:0;
+    border-radius:50%;
+    
+  }
+  .box8{
+    height:20px;
+    width:15px;
+    border:5px solid ;
+    background-color: white;
+    position: absolute;
+    margin:50px;
+    right:0;
+    top:0;
+    border-radius:50%;
+    
+  }
+  .box9{
+    height:15px;
+    width:15px;
+    border:5px solid ;
+    background-color: white;
+    position: absolute;
+    margin:50px;
+    left:0;
+    bottom:0px;
+    border-radius:50%;
+    
+  }
+  .box10{
+    height:15px;
+    width:15px;
+    border:5px solid ;
+    background-color: white;
+    position: absolute;
+    margin:50px;
+    left:0;
+    top:0;
+    border-radius:50%;
+    
+  }
